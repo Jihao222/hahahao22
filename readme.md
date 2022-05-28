@@ -28,7 +28,7 @@
 All kinds of weights in the code are based on 416x416 image training.
 
 ## How2train
-This document only provide brief steps to train & predict the model offline, but no training code and dataset will be provided.
+This document only provide brief steps to train & predict the model offline.
 The main code of training yolo & faster-rcnn is open-source by https://github.com/bubbliiiing/yolov4-tiny-pytorch & https://github.com/bubbliiiing/faster-rcnn-pytorch
 ### Train the gas leakage dataset
 1. Preparation
