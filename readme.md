@@ -92,3 +92,7 @@ the robotic fish is controlled by the PID algorithm, which is compiled in STM32.
 
 ![序列 01_1_~1](https://user-images.githubusercontent.com/64571422/170801956-b59e7ff7-7da3-4822-91ca-edbcfba35e95.gif)
 
+
+
+
+this document was edited by shuyuhu, fengao, jihaoshi.
