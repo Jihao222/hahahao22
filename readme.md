@@ -90,7 +90,7 @@ pip3 install Cython
 the robotic fish is controlled by the PID algorithm, which is compiled in STM32. The code is in HARDWARE Directory.
 
 
-![序列 01_1_~1](https://user-images.githubusercontent.com/64571422/170801956-b59e7ff7-7da3-4822-91ca-edbcfba35e95.gif)
+![序列 01_1](https://user-images.githubusercontent.com/31895962/170829272-e667b88f-8075-4007-96dc-8e17798f51ac.gif)
 
 
 
