@@ -11,7 +11,8 @@
 4) [How2predict](#How2Predict)
 5) [Compile_on_Jetson](#Compile_on_Jetson)
 6) [PID_control_algorithm](#PID_control_algorithm)
-
+7）[Reference](#Reference)
+8) [Declaration](#Declaration)
 ## Environment
 **PC**\
     torch==1.9.0\
@@ -95,8 +96,10 @@ the robotic fish is controlled by the PID algorithm, which is compiled in STM32.
 
 ![序列 01_1](https://user-images.githubusercontent.com/31895962/170829272-e667b88f-8075-4007-96dc-8e17798f51ac.gif)
 
-
-
-This document was edited by Shuyuhu, Fengao, Jihaoshi. The demonstration video was uploaded in the directory.
+## Reference
 
 The video of real petroleum gas leakage was downloaded at: https://www.youtube.com/watch?v=EJ91G3e0OBQ
+
+## Declaration
+
+This document was edited by Shuyuhu, Fengao, Jihaoshi. The demonstration video was uploaded in the directory.
