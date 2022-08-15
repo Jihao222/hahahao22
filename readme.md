@@ -33,6 +33,9 @@ The main code of training yolo & faster-rcnn is open-source by https://github.co
 ### Train the gas leakage dataset
 1. Preparation
 **Train in VOC Format**
+
+The dataset download link：Baidu Netdisk：https://pan.baidu.com/s/1Lz57RBiWy3qOK6geBmQQhw   pin：SSQX 
+
 2. Data processing
 After the data set is placed, we need to use **VOC_ annotation.py** get **2007_train.txt** and **2007_val.txt** for training.\
 Modify Parameters in **voc_annotation.py**. **classes_path** can be modified for the first training only，**classes_path** is used to point to the txt corresponding to the detection category.
@@ -94,4 +97,6 @@ the robotic fish is controlled by the PID algorithm, which is compiled in STM32.
 
 
 
-This document was edited by Shuyuhu, Fengao, Jihaoshi. The demonstration video was uploaded in the directory
+This document was edited by Shuyuhu, Fengao, Jihaoshi. The demonstration video was uploaded in the directory.
+
+The video of real petroleum gas leakage was downloaded at: https://www.youtube.com/watch?v=EJ91G3e0OBQ
