@@ -64,7 +64,9 @@ The prediction of training results requires two files, yolo.py and predict.py. M
 
 ## Predict_result
 
-the video "output13.mp4" in the directory is the record of reference using Faster-RCNN.
+the video "output13.mp4" in the directory is the record of inference using Faster-RCNN.
+![28](https://user-images.githubusercontent.com/31895962/184635431-1bcfb2dd-34d3-4286-ac82-ad9890cfdd41.jpg)
+
 
 ## Compile_on_Jetson
 ### This document only provide the brief step 
