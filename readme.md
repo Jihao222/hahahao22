@@ -38,6 +38,8 @@ The main code of training yolo & faster-rcnn is open-source by https://github.co
 
 The dataset download link：Baidu Netdisk：https://pan.baidu.com/s/1Lz57RBiWy3qOK6geBmQQhw   pin：SSQX 
 
+GoogleDrive:https://drive.google.com/file/d/1pluxEFO9vUKAfOZc817A2TwWEEC0PDQH/view?usp=sharing
+
 2. Data processing
 After the data set is placed, we need to use **VOC_ annotation.py** get **2007_train.txt** and **2007_val.txt** for training.\
 Modify Parameters in **voc_annotation.py**. **classes_path** can be modified for the first training only，**classes_path** is used to point to the txt corresponding to the detection category.
